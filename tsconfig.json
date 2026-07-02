@@ -1,17 +1,13 @@
 {
-  "name": "cv-generator",
-  "version": "1.0.0",
-  "description": "Gerador de materiais de candidatura otimizados por IA",
-  "main": "src/index.ts",
-  "scripts": {
-    "start": "ts-node src/index.ts"
+  "compilerOptions": {
+    "target": "ES2022",                     
+    "module": "node16",                          
+    "moduleResolution": "node16",
+    "types": ["node"],                          
+    "esModuleInterop": true,                    
+    "forceConsistentCasingInFileNames": true,    
+    "strict": true,                             
+    "skipLibCheck": true                        
   },
-  "dependencies": {
-    "groq-sdk": "^0.3.3"
-  },
-  "devDependencies": {
-    "@types/node": "^20.19.43",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.9.3"
-  }
+  "include": ["src/**/*"]                       
 }
