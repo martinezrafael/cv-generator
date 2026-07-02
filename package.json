@@ -5,11 +5,11 @@
   "main": "src/index.ts",
   "type": "module",
   "scripts": {
-    "start": "node --env-file=.env --import ts-node/esm src/index.ts"
+    "start": "tsx --env-file=.env src/index.ts"
   },
   "devDependencies": {
     "@types/node": "^20.19.43",
-    "ts-node": "^10.9.2",
+    "tsx": "^4.19.0",
     "typescript": "^5.9.3"
   },
   "dependencies": {
