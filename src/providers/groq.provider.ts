@@ -1,24 +1,18 @@
-import { Groq } from 'groq-sdk';
-import { AiProvider, AiProviderOptions } from './ai-provider.interface';
+import { groq } from '@ai-sdk/groq';
+import { generateText } from 'ai';
+import { AiProvider, AiProviderOptions } from './ai-provider.interface.js';
 
 export class GroqProvider implements AiProvider {
-  private client: Groq;
-
-  constructor() {
-    this.client = new Groq({ apiKey: process.env.GROQ_API_KEY });
-  }
-
   async generateText(systemPrompt: string, userPrompt: string, options: AiProviderOptions): Promise<string> {
-    const response = await this.client.chat.completions.create({
-      model: options.model,
+    const response = await generateText({
+      model: groq(options.model),
+      system: systemPrompt,
+      prompt: userPrompt,
       temperature: options.temperature ?? 0.2,
-      max_tokens: options.maxTokens,
-      messages: [
-        { role: 'system', content: systemPrompt },
-        { role: 'user', content: userPrompt }
-      ]
+      // Passa a propriedade apenas se ela for definida nas opções
+      ...(options.maxTokens ? { maxTokens: options.maxTokens } : {})
     });
 
-    return response.choices[0]?.message?.content ?? '';
+    return response.text;
   }
 }

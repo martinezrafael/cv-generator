@@ -1,5 +1,5 @@
-import { AiProvider } from '../providers/ai-provider.interface';
-import { GroqProvider } from '../providers/groq.provider';
+import { AiProvider } from '../providers/ai-provider.interface.js';
+import { GroqProvider } from '../providers/groq.provider.js';
 
 export type ProviderType = 'groq';
 

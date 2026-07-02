@@ -1,20 +1,17 @@
 import * as fs from 'fs';
 import * as path from 'path';
-import { AiFactory } from './factories/ai-factory';
+import { AiFactory } from './factories/ai-factory.js';
 
 async function main() {
-  // 1. Inicializa o provider abstraído apontando para o Groq
   const ai = AiFactory.createProvider('groq');
 
-  // 2. Resolve a leitura física dos ficheiros estruturados de estratégia e prompt
   const systemPromptPath = path.join(__dirname, '../instructions/global-system.md');
   const systemPrompt = fs.readFileSync(systemPromptPath, 'utf-8');
 
   const positioningPath = path.join(__dirname, '../strategy/positioning-core.md');
   const positioningContext = fs.readFileSync(positioningPath, 'utf-8');
 
-  // 3. Define a vaga desejada e encapsula o escopo do usuário
-  const vagaAlvo = 'Vaga: Desenvolvedor Backend Pleno. Requisitos: TypeScript, Microserviços e RabbitMQ.';
+  const vagaAlvo = 'Vaga: Desenvolvedor Backend Pleno. Requisitos: TypeScript, Microsserviços e RabbitMQ.';
   const userPrompt = `
     Contexto Estratégico de Posicionamento:
     ${positioningContext}
@@ -23,12 +20,11 @@ async function main() {
     ${vagaAlvo}
   `;
 
-  // 4. Executa a requisição consumindo o modelo de alta velocidade do Groq
   try {
-    console.log('Carregando bases de dados locais e acionando o Groq...');
+    console.log('Carregando contextos locais e acionando a Vercel AI SDK via Groq...');
     
     const output = await ai.generateText(systemPrompt, userPrompt, {
-      model: 'llama3-70b-8192',
+      model: 'llama-3.3-70b-versatile', // Modelo estável oficial de produção
       temperature: 0.2
     });
 
