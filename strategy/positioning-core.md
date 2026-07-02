@@ -17,7 +17,7 @@ Especialista em Engenharia Backend (Node.js/TypeScript) e Mensageria Assíncrona
 2.  **Mensageria e Persistência Resiliente:** Implementação de processamento assíncrono via RabbitMQ (workers) e execução de migrações críticas de camadas de dados para Prisma ORM e PostgreSQL, reduzindo falhas de segurança e latência.
 3.  **Engenharia de Produto e Integrações (Full Stack):** Desenvolvimento de fluxos de ponta a ponta (da captação de leads ao checkout) integrando APIs complexas de mercado (HubSpot, Zendesk, Blip) e interfaces modernas e performáticas com React.js e Astro.
 
-## 3. MATRIZ DE PALAVRAS-CHAVE (KEYWORDS PONTUADAS POR ATS 2026)
+## 3. MATRIZ DE PALAVRAS-CHAVE (KEYWORDS PONTUADAS POR ATS)
 
 ### Grupo 1: Identidade Profissional (Headline, Títulos e Início do Resumo)
 *   Desenvolvedor Backend Pleno
@@ -49,11 +49,11 @@ Especialista em Engenharia Backend (Node.js/TypeScript) e Mensageria Assíncrona
 *   Automações de Marketing / HubSpot / Zendesk / Blip
 
 ## 4. REGRAS DE DISTRIBUIÇÃO NOS ENTREGÁVEIS (ARQUITETURA DE INFORMAÇÃO)
-*   **Headline Principal:** Máximo de 4 termos do Grupo 1 combinados por divisores verticais (ex: Desenvolvedor Backend Pleno | Node.js & TypeScript | Full Stack | Foco em Arquitetura & ROI).
+*   **Headline Principal:** Máximo de 4 termos do Grupo 1 combinados por divisores verticais.
 *   **Introdução do Resumo:** Primeiras 3 linhas fundem o tempo de trajetória (mais de 5 anos) com as tecnologias principais do Grupo 2 (Node.js, TypeScript, APIs de larga escala).
-*   **Corpo do Resumo:** Narração contextualizada provando como as suas decisões técnicas (como migrar para Prisma ou usar RabbitMQ) geraram resiliência de software e ganho para o negócio do cliente.
+*   **Corpo do Resumo:** Narração contextualizada provando como as suas decisões técnicas geraram resiliência de software e ganho para o negócio do cliente.
 *   **Lista de Especialidades (Fim do Resumo):** Sequência corrida dos termos técnicos dos Grupos 2, 3 e 4 puramente para fins de indexação de robôs de triagem (ATS).
 
 ## 5. RECONHECIMENTO DE GAPS E BLINDAGEM DE ENTREVISTA
-*   **Gaps Identificados de Mercado:** Liderança formal de grandes equipes de engenharia em regime corporativo tradicional; Conhecimento profundo em monitoramento de métricas estritas de SRE / DevOps avançado na nuvem (sem o auxílio de abstrações).
-*   **Regra de Mitigação:** Direcionar o foco das conversas e descrições para a autonomia técnica, capacidade consultiva, entrega ágil de features de ponta a ponta e eficiência de arquitetura que evita a necessidade de times inflados.  
+*   **Gaps Identificados de Mercado:** Liderança formal de grandes equipes de engenharia em regime corporativo tradicional; Conhecimento profundo em monitoramento de métricas estritas de SRE / DevOps avançado na nuvem.
+*   **Regra de Mitigação:** Direcionar o foco das descrições para a autonomia técnica, capacidade consultiva, entrega ágil de features de ponta a ponta e eficiência de arquitetura que evita a necessidade de times inflados.

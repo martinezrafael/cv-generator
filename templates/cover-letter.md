@@ -19,4 +19,4 @@ Atenciosamente,
 
 Rafael Molina Martinez
 (13) 98216-0000 | rafaelmartinez.contato@gmail.com
-github.com/martinezrafael | linkedin.com/in/molinamartinez
+[github.com/martinezrafael](https://github.com/martinezrafael) | [linkedin.com/in/molinamartinez](https://linkedin.com/in/molinamartinez)

@@ -19,30 +19,30 @@ Desenvolvedor Full Stack Pleno com mais de 5 anos de experiência, especializado
 
 **DESENVOLVEDOR BACKEND PLENO**
 Mundiale | Período: Fev/2026 a Mai/2026
-* Atuação no ecossistema Full Stack focando no desenvolvimento de APIs RESTful em Node.js e TypeScript para a arquitetura de chatbots de atendimento e vendas em larga escala, voltados para contas Enterprise como Claro e Estácio.
-* Engenharia de fluxos automatizados de ponta a ponta, da captação de leads ao checkout, otimizando a conversão de negócios através de código performático.
+* Atuação no ecossistema Full Stack focando no desenvolvimento de APIs RESTful em Node.js e TypeScript para a arquitetura de chatbots de atendimento e vendas em larga escala, voltados para contas Enterprise como Claro e Estácio[cite: 10].
+* Engenharia de fluxos automatizados de ponta a ponta, da captação de leads ao checkout, otimizando a conversão de negócios através de código performático[cite: 10].
 
 **DESENVOLVEDOR BACKEND (Consultoria)**
 Conquest One (Alocado na Trademaster) | Período: Out/2025 a Jan/2026 (4 meses)
-* Modernização da camada de persistência de dados através da migração crítica de TypeORM para Prisma utilizando PostgreSQL.
-* Implementação de processamento assíncrono por meio de workers e resiliência de microsserviços via RabbitMQ, garantindo qualidade com testes em Jest.
+* Modernização da camada de persistência de dados através da migração crítica de TypeORM para Prisma utilizando PostgreSQL[cite: 10].
+* Implementação de processamento assíncrono por meio de workers e resiliência de microsserviços via RabbitMQ, gerando qualidade com testes em Jest[cite: 10].
 
 **DESENVOLVEDOR FULL STACK**
 Metadados | Período: Abr/2024 a Set/2025 (1 ano e 6 meses)
-* Modernização completa de sistemas corporativos e migração de stack legada em Laravel para Astro no Front-end, resultando em ganhos expressivos de performance e SEO.
-* Arquitetura e desenvolvimento do ecossistema backend utilizando Strapi (Headless CMS) e Node.js para gestão dinâmica e escalável de conteúdo.
-* Integração de APIs de terceiros como HubSpot, Zendesk e Blip para automação de CRM e otimização de fluxos de atendimento.
+* Modernização completa de sistemas corporativos e migração de stack legada em Laravel para Astro no Front-end, resultando em ganhos expressivos de performance e SEO[cite: 10].
+* Arquitetura e desenvolvimento do ecossistema backend utilizando Strapi (Headless CMS) e Node.js para gestão dinâmica e escalável de conteúdo[cite: 10].
+* Integração de APIs de terceiros como HubSpot, Zendesk e Blip para automação de CRM e otimização de fluxos de atendimento[cite: 10].
 
 **DESENVOLVEDOR FULL STACK**
 Grupo Hiper Saúde (RM Farma) | Período: Jul/2023 a Mar/2024 (9 meses)
-* Desenvolvimento de interfaces web responsivas e Landing Pages de alta conversão utilizando JavaScript (ES6+) e React.js.
-* Criação de automações backend para captura e monitoramento de leads integradas diretamente à API do HubSpot.
-* Prototipação de ferramentas de inteligência de mercado em Node.js para suporte à tomada de decisão de negócio.
+* Desenvolvimento de interfaces web responsivas e Landing Pages de alta conversão utilizando JavaScript (ES6+) e React.js[cite: 10].
+* Criação de automações backend para captura e monitoramento de leads integradas diretamente à API do HubSpot[cite: 10].
+* Prototipação de ferramentas de inteligência de mercado em Node.js para suporte à tomada de decisão de negócio[cite: 10].
 
 **DESENVOLVEDOR FRONTEND**
 Onde Encontrar | Período: Jul/2022 a Jun/2023 (1 ano)
-* Desenvolvimento e manutenção de portal institucional utilizando React.js e Tailwind CSS, priorizando padrões rígidos de UX/UI e total responsividade.
-* Gestão completa do ciclo de produto, desde a concepção técnica até a implementação e otimização avançada de SEO.
+* Desenvolvimento e manutenção de portal institucional utilizando React.js e Tailwind CSS, priorizando padrões rígidos de UX/UI e total responsividade[cite: 10].
+* Gestão completa do ciclo de produto, desde a concepção técnica até a implementação e otimização avançada de SEO[cite: 10].
 
 # FORMAÇÃO ACADÊMICA
 * Bacharelado em Administração de Empresas | UNIP
