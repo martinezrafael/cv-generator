@@ -1,3 +1,8 @@
-Quando eu rodar a aplicação, ela deve:
+Quando eu rodar a aplicação a ia deve
 
-Acionar a IA -> ler o arquivo `instructions/global-system.md`
+Acessar o arquivo global-system
+
+ler as diretrizes de operação
+
+
+
