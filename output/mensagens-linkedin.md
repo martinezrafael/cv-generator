@@ -1,11 +1,11 @@
 OPÇÃO 1: NOTA DE CONEXÃO
-Olá, gostaria de saber mais sobre a vaga de Desenvolvedor Backend na Dexian e como posso contribuir com minhas habilidades em Node.js e TypeScript.
+Olá, estou procurando por oportunidades em engenharia de software que permitam aplicar minhas habilidades em Node.js, React.js e arquiteturas de Microsserviços. Você poderia me ajudar a entender melhor sobre a vaga de Desenvolvedor Backend na Dexian?
 
 OPÇÃO 2: ABORDAGEM DIRETA
-Prezado(a) [Nome do Gestor],
+Olá, gostaria de destacar alguns pontos fortes do meu perfil que se alinham com a vaga de Desenvolvedor Backend na Dexian:
 * Desenvolvimento de APIs RESTful em Node.js e TypeScript para arquiteturas de chatbots de atendimento e vendas em larga escala.
-* Implementação de processamento assíncrono por meio de workers e resiliência de microsserviços via RabbitMQ.
-* Migração crítica de TypeORM para Prisma utilizando PostgreSQL, garantindo a mitigação de falhas de segurança e a garantia de qualidade de código.
+* Implementação de processamento assíncrono via RabbitMQ e migrações críticas de TypeORM para Prisma utilizando PostgreSQL.
+* Experiência em integrações de APIs de terceiros como HubSpot, Zendesk e Blip para otimização de CRMs e arquiteturas de chatbots corporativos.
 
 OPÇÃO 3: PROSPECÇÃO DIRETA
-Olá, sou Rafael, Desenvolvedor Full Stack Pleno com mais de 5 anos de experiência. Estou procurando por oportunidades em que possa aplicar minhas habilidades em Node.js, TypeScript, e React.js para contribuir com a escalabilidade e a eficiência de sistemas. Gostaria de saber mais sobre como posso apoiar a Dexian em seus desafios tecnológicos.
+Olá, como especialista em engenharia backend e full stack, posso contribuir para a eficiência e escalabilidade dos sistemas da Dexian. Minha experiência em desenvolver soluções performáticas e resilientes pode ser um grande valor para a equipe. Estou ansioso para discutir como posso apoiar os próximos desafios de engenharia da Dexian.
