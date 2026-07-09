@@ -1,27 +1,27 @@
-# RAFAEL MOLINA MARTINEZ
+# Rafael Molina Martinez
 São Paulo - SP | (13) 98216-6495 | rafaelmartinez.contato@gmail.com | [linkedin.com/in/molinamartinez](https://linkedin.com/in/molinamartinez) | [github.com/martinezrafael](https://github.com/martinezrafael)
 
 ## RESUMO PROFISSIONAL
-Desenvolvedor Full Stack Pleno com mais de 5 anos de experiência, especializado em Node.js (TypeScript), React.js, e arquiteturas de Microsserviços. Domínio em integrações de APIs de terceiros, mensageria com RabbitMQ, e bancos de dados como PostgreSQL e MongoDB. Forte experiência em otimização de fluxos de conversão e ROI.
+Desenvolvedor Backend Pleno com mais de 5 anos de experiência, especializado em Node.js (TypeScript), arquiteturas de alta disponibilidade e mensageria assíncrona com RabbitMQ. Domínio em migrações críticas de bancos de dados e ORMs, com foco em qualidade e eficiência através de testes automatizados e Docker.
 
 ## PRINCIPAIS COMPETÊNCIAS
-* **Hard Skills:** Node.js, TypeScript, React.js, Astro, PostgreSQL, MongoDB, RabbitMQ, Docker, Arquitetura de Microsserviços, DDD
-* **Metodologias & Práticas:** Metodologias Ágeis (Scrum), CI/CD, Testes Automatizados (Jest), Clean Architecture
+* **Hard Skills:** Node.js, TypeScript, Go, PostgreSQL, MongoDB, Arquitetura de Microsserviços, RabbitMQ, Prisma, TypeORM, Docker.
+* **Metodologias & Práticas:** Metodologias Ágeis (Scrum), CI/CD, Testes Automatizados (TDD/BDD), Clean Architecture.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-### DESENVOLVEDOR BACKEND PLENO
-Mundiale | Período: Fev/2026 a Mai/2026
-* Desenvolveu APIs RESTful em Node.js e TypeScript para arquitetura de chatbots de atendimento e vendas em larga escala.
-* Implementou processamento assíncrono via RabbitMQ e migrações críticas de TypeORM para Prisma utilizando PostgreSQL.
+### Desenvolvedor Backend Pleno
+Mundiale | Período: Fev/2026 - Mai/2026
+* Desenvolvimento de APIs RESTful em Node.js e TypeScript para arquitetura de chatbots de atendimento e vendas em larga escala.
+* Implementação de fluxos automatizados de ponta a ponta, da captação de leads ao checkout, otimizando a conversão de negócios.
 
-### DESENVOLVEDOR FULL STACK
-Metadados | Período: Abr/2024 a Set/2025
-* Modernizou sistemas corporativos migrando de Laravel para Astro no Front-end, resultando em ganhos de performance e SEO.
-* Desenvolveu ecossistema backend utilizando Strapi (Headless CMS) e Node.js para gestão dinâmica de conteúdo.
+### Desenvolvedor Backend (Consultoria)
+Conquest One (Alocado na Trademaster) | Período: Out/2025 - Jan/2026
+* Execução de migração crítica de TypeORM para Prisma em ambientes utilizando PostgreSQL.
+* Implementação de novas funcionalidades utilizando RabbitMQ para garantir o processamento assíncrono por meio de workers.
 
 ## EDUCAÇÃO / FORMAÇÃO
-* Bacharelado em Administração de Empresas | UNIP
+* **Bacharelado em Administração de Empresas** – UNIP
 
 ## IDIOMAS
-* Inglês: Avançado
+* **Inglês:** Avançado / Fluente

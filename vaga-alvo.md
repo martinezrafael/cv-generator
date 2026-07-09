@@ -1,92 +1,71 @@
-
 Sobre a vaga
 
-Quem Somos
+Prazer, somos a Housi, a proptech que mais cresce no Brasil!
 
-A Dexian, lançada em 2023, tem presença global e traz consigo quase 30 anos de experiência através de suas companhias legadas, principalmente da combinação da DISYS e Signature Consultants.
+Somos uma startup que iniciou sua trajetória em 2019 com o conceito de moradia sob demanda para quem deseja um aluguel flexível, online e sem burocracia.
 
+Ao longo dos anos evoluímos o conceito de moradia com a tecnologia Housi Appspace, e no de 2023, apresentamos o conceito SMART LIVING, que traduz o que a Housi é e nosso posicionamento.
 
-Iniciamos no Brasil 2007 como DISYS e, de lá para cá, conquistamos mais de 50 clientes de diferentes setores da economia. Como Dexian, passamos a ser uma das maiores empresas de contratação e solução de TI e estamos liderando a indústria por meio de entrega de serviços exclusivos que combina escala global, recursos de serviço completo e agilidade tática para modernizar modelos de contratação, avançar em soluções de mão-de-obra e transformar a infraestrutura tecnológica. Contamos com escritórios estrategicamente localizados em quatro grandes capitais: Curitiba (PR), Porto Alegre (RS), Rio de Janeiro (RJ) e São Paulo (SP). Assim, conseguimos nos manter próximos dos nossos clientes e consultores. Também somos uma Minority Owner Company e nos sentimos orgulhosos de termos nascido na diversidade.
+Aqui na Housi, acreditamos que morar é muito mais do que simplesmente ter um lugar para ficar. É uma experiência completa, onde a praticidade é a chave. Imagine só: tudo o que você precisa ao seu alcance, tanto físico quanto digitalmente, para que sobre mais tempo para o que realmente importa: se divertir, conhecer gente nova e curtir a vida.
 
+Com a gente, você se conecta a uma atmosfera onde sua rotina é mais leve. Da lavanderia até aquela pausa pro cafezinho, está tudo na palma da sua mão. Tanto no app quanto no próprio prédio, as melhores soluções estão pertinho de você, sempre prontas para te surpreender.
 
-O que esperar de nós
+Como Desenvolvedor Back-end Júnior você terá os seguintes desafios:
 
-Pessoas estão no centro de nossa estratégia e compõem o nosso maior capital. Temos compromisso de atrair, reter os maiores e melhores talentos e construir conexões reais para a vida. Por isso, atuamos como ponte entre profissionais altamente qualificados e oportunidades consistentes e prósperas. Acreditamos que, trazer o talento, a tecnologia e as organizações certas juntos, ajuda a desbloquear resultados transformadores e alcançar novos níveis de sucessos para os clientes que atendemos e os consultores que contratamos. E para isso, cinco valores fundamentais nos guiam: Integridade, Transparencia, Autenticidade, Engenhosidade e Empatia. Compartilha dos mesmos valores, aqui é seu lugar! Que tal desenvolver sua carreira conosco?
+    Desenvolver e manter APIs e serviços backend com Node.js e Golang
+    Escrever código limpo, testável e bem documentado em TypeScript e Golang
+    Escrever testes unitários
+    Modelar e manter estruturas de dados em PostgreSQL e MongoDB
+    Integrar serviços e APIs internas e de terceiros
+    Apoiar o deploy e a operação de aplicações na GCP
+    Participar de code reviews, garantindo qualidade e boas práticas
+    Monitorar serviços em produção, identificar e corrigir bugs e gargalos de performance
+    Colaborar com o time em discussões de arquitetura e melhorias contínuas
 
+Para isso, precisamos que você tenha:
 
-Na Dexian, valorizamos a diversidade.
+    Conhecimento de pelo menos uma linguagem backend
+    Noções de APIs REST
+    Familiaridade com bancos de dados relacionais e SQL
+    Versionamento de código com Git
+    Vontade de aprender e trabalhar em ambientes de cloud
+    Boa comunicação e capacidade de trabalho em equipe
 
-Acreditamos que diferentes perspectivas, experiências e trajetórias impulsionam a inovação e fortalecem conexões. Por isso, nosso processo de contratação é inclusivo, aberto a candidatos de todas as identidades, habilidades e histórias. Aqui, o que importa é o talento.
+E vai nos surpreender se você tiver:
 
+    Experiência ou estudos com Node.js e/ou Golang
+    Conhecimento de NestJS
+    Experiência com bancos NoSQL (MongoDB)
+    Familiaridade com GCP
+    Noções de containers (Docker) e CI/CD
+    Conhecimento de boas práticas de testes automatizados
 
-Nosso Cliente
+Benefícios para você:
 
-Esta vaga irá atender nosso cliente do segmento de óleo e gás/energia, uma das principais players globais do setor, com operações que envolvem tecnologia de ponta para exploração, produção e distribuição de energia em escala mundial.
+Plano de saúde Porto Seguro coparticipativo para você e seus dependentes, cuidando do que realmente importa.
 
+‍♂ Wellhub (antigo Gympass) ou Total Pass: Acesso a academias e estúdios parceiros, garantindo qualidade de vida e bem-estar para você e sua família.
 
-O que esperar do seu dia a dia de trabalho
+Day-off de aniversário: Um dia inteiro só para curtir a sua data especial!
 
-    Desenvolver e manter serviços backend utilizando Node.js (JavaScript/TypeScript)
-    Contribuir com o desenvolvimento frontend utilizando Vue.js quando necessário
-    Atuar em ambientes containerizados (Docker, Kubernetes, OpenShift)
-    Construir e gerenciar infraestrutura utilizando Terraform e Ansible
-    Operar em plataformas cloud (Azure e AWS)
-    Projetar, implementar e manter pipelines de CI/CD
+Desconto exclusivo para moradias Housi: Quer morar com a gente? Aqui você tem condições especiais!
 
+Parcerias e vantagens exclusivas para nossos Housix: Descontos e benefícios que só quem é parte da nossa equipe aproveita!
 
-O que você precisa ter 
+Desconto em pós-graduação no Mackenzie e cursos de idiomas na Open English, porque crescimento profissional também faz parte!
 
-    Sólidos conhecimentos em JavaScript, TypeScript e Node.js
-    Experiência com containers: Docker, Kubernetes e OpenShift
-    Experiência em cloud: Azure e AWS
-    Conhecimento em Infrastructure as Code: Terraform e Ansible
-    Experiência com CI/CD e controle de versão: GitHub e GitHub Actions
-    Conhecimento em gestão de artefatos: JFrog
-    Experiência com banco de dados SQL
-    Conhecimento em sistemas operacionais Linux
-    Experiência em automação/scripting com Python
-    Conhecimentos de fundamentos de redes
-    Inglês nível avançado (nível 4) 
+Premiação anual de acordo com o atingimento de metas: Reconhecemos quem entrega resultados!
 
+Convênio odontológico, para cuidar do seu sorriso sem preocupação!
 
-Será um destaque seu perfil com:
+Vale-transporte: Para garantir que você chegue com tranquilidade ao trabalho todos os dias.
 
-    Sólido entendimento de práticas de DevOps
-    Conhecimento de boas práticas de segurança, incluindo segurança de containers, repositórios e código
-    Experiência geral com automação e sistemas escaláveis
+Benefício flexível no cartão Caju, para você usar como preferir – do jeitinho que combina com a sua rotina!
 
+Parceria com o Sesc para acesso a cultura, lazer, esportes e muito mais!
 
-Onde você vai trabalhar?
+️ Seguro de vida assim você tem mais segurança e tranquilidade no dia a dia.
 
-No conforto da sua casa. Regime 100% Home Office
+Além disso, também oferecemos:
 
-
-Regime de Contratação 
-
-CLT
-
-
-Benefícios para você 
-
-* Vale Refeição
-
-* Vale Alimentação
-
-* Assistência Médica
-
-* Assistência Odontológica
-
-* Seguro de Vida
-
-* Gym Pass
-
-* Auxílio Pet
-
-
-Além disso, oferecemos :
-
-* Incentivo a estudo após completar 1 ano de Dexian
-
-* Programa de desenvolvimento e treinamentos
-
-* Formação através da Trilha de Liderança
+    Um ambiente colaborativo, que incentiva crescimento e com pessoas que querem fazer acontecer. Trabalhamos com propósito e nossa cultura é de uma startup que realmente quer fazer grandes coisas acontecerem e temos certeza que isso só será possível se continuarmos trazendo os melhores talentos. 
